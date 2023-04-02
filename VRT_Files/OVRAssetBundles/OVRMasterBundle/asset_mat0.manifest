@@ -1,0 +1,24 @@
+ManifestFileVersion: 0
+CRC: 182220949
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 24466563a157e8b6e46d8bb81172644e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 10a6a558690295dadb3dd990eda0821a
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Oculus/SampleFramework/Core/HandsInteraction/Materials/RayMaterial.mat
+- Assets/Oculus/SampleFramework/Core/HandsInteraction/Materials/TargetMaterial.mat
+- Assets/VRTK/LegacyExampleFiles/ExampleResources/Materials/Simple_Solid_Colors/Red.mat
+- Assets/VRTK/LegacyExampleFiles/ExampleResources/Materials/Simple_Solid_Colors/Green.mat
+- Assets/Oculus/SampleFramework/Core/CustomHands/Materials/Hands_solid.mat
+- Assets/Oculus/SampleFramework/Core/HandsInteraction/Materials/PokeMaterial.mat
+Dependencies: []

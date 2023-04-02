@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 594867481
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 97aefe061c4e7c85c800c1db15b063ba
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 7859cd501ea75098bcf7e53f1b477c26
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/VRTK/LegacyExampleFiles/ExampleResources/Materials/Textures/asphalt.jpg
+Dependencies: []

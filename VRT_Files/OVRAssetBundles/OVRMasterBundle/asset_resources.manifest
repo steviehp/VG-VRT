@@ -1,0 +1,160 @@
+ManifestFileVersion: 0
+CRC: 4025091721
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 25a04147c8a5a20807298df53a0312fc
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 69b680c3a630afe1feaef05d2078e684
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 20
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 33aabe1a2dec93349b06e6e5dc51bc06, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8e5ac92bc18f545cc84cd886ece82b4d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ad074644ff568a14187a3690cfbd7534, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 70c2f484f132c044097f03d65cac3b24, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3863570e7e6387a40ae4f323d83291e5, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 135
+  Script: {instanceID: 0}
+- Class: 136
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Oculus/Avatar/Resources/FallbackTextures/fallback_diffuse_roughness_2048.png
+- Assets/Resources/Audio/Going wherever.wav
+- Assets/VRTK/Internal/Materials/Resources/SnapDropZoneEditorObject.mat
+- Assets/Resources/Materials/tree_bark_background.jpg
+- Assets/Oculus/Avatar/Resources/FallbackTextures/fallback_diffuse_roughness_256.png
+- Assets/VRTK/Source/SDK/Fallback/Resources/ControllerColliders/Fallback.prefab
+- Assets/Oculus/Voice/Lib/Wit.ai/Resources/continue-with-fb.png
+- Assets/Resources/Materials/Wapow.mat
+- Assets/Resources/Materials/Textures/Side 2 w_o Sky Decor.png
+- Assets/Oculus/Avatar/Resources/Materials/Version1.5/Avatar_PC_SingleComponent.shader
+- Assets/Resources/Materials/Textures/STOP.png
+- Assets/Oculus/VR/Resources/OVRMRUnlitTransparent.shader
+- Assets/Oculus/Avatar/Resources/FallbackTextures/fallback_normal_2048.png
+- Assets/VRTK/Source/SDK/SteamVR/Resources/ControllerColliders/SteamVRWindowsMRController_Left.prefab
+- Assets/Resources/Materials/Flame.mat
+- Assets/Resources/Materials/Textures/START.png
+- Assets/VRTK/Source/SDK/HyperealVR/Resources/ControllerColliders/HyperealSens.prefab
+- Assets/Resources/Materials/Bark.mat
+- Assets/VRTK/Internal/Materials/Resources/TunnelOverlay.mat
+- Assets/Resources/Materials/fire.jpg
+- Assets/Resources/Materials/Materials/START.mat
+- Assets/Resources/Materials/Textures/Side 3 With Stars.png
+- Assets/Resources/Materials/Textures/Side 2 With Stars.png
+- Assets/Resources/OVRPlatformToolSettings.asset
+- Assets/Resources/Materials/Materials/STOP.mat
+- Assets/Oculus/Avatar/Resources/Materials/Version1.5/Avatar_Mobile_Loader.shader
+- Assets/VRTK/Internal/Materials/Resources/TooltipLine.mat
+- Assets/VRTK/Source/SDK/Ximmerse/Resources/ControllerColliders/XimmerseCobra02.prefab
+- Assets/Resources/Materials/green_leaves_PNG3625.png
+- Assets/Oculus/Voice/Lib/Wit.ai/Resources/wit-ai-title.png
+- Assets/VRTK/Source/SDK/SteamVR/Resources/ControllerColliders/SteamVRWindowsMRController_Right.prefab
+- Assets/Oculus/VR/Resources/Cubemap Blit.shader
+- Assets/Resources/Audio/B maj.wav
+- Assets/Resources/Materials/Table.prefab
+- Assets/Resources/Materials/Grass 2.prefab
+- Assets/Oculus/VR/Resources/OVRMRUnlit.shader
+- Assets/VRTK/Internal/Materials/Resources/AdaptiveQualityDebugVisualization.mat
+- Assets/Resources/OVRBuildConfig.asset
+- Assets/Resources/Materials/Grass 3.prefab
+- Assets/Resources/Materials/Copy of tent.fbx
+- Assets/Resources/Materials/Textures/Side 4 w_o Sky Decor.png
+- Assets/Oculus/Avatar/Resources/Materials/AvatarSurfaceShaderSelfOccluding.shader
+- Assets/Oculus/VR/Resources/Unlit Transparent Color.shader
+- Assets/Resources/Materials/skybox.mat
+- Assets/Resources/OvrAvatarSettings.asset
+- Assets/Resources/Audio/A dorian.wav
+- Assets/VRTK/Internal/Materials/Resources/UIText.mat
+- Assets/Resources/Audio/D min.wav
+- Assets/VRTK/Source/SDK/SteamVR/Resources/ControllerColliders/HTCVive.prefab
+- Assets/Oculus/Avatar/Resources/Materials/AvatarSurfaceShaderPBS.shader
+- Assets/Oculus/VR/Resources/OVRMRCameraFrameLit.shader
+- Assets/Oculus/Voice/Resources/voicesdk_heroart.png
+- Assets/Oculus/Avatar/Resources/Materials/Version1.5/Avatar_Mobile_CombinedMesh.shader
+- Assets/Resources/Materials/Wood.mat
+- Assets/Resources/Materials/Grass 4.prefab
+- Assets/Oculus/Avatar/Resources/Materials/Expressive/Avatar_Mobile_CombinedMeshExpressive.shader
+- Assets/Resources/Shaders/Always on Top.shader
+- Assets/Resources/Materials/Textures/Side 1 w_o Sky Decor.png
+- Assets/Oculus/VR/Resources/Underlay Transparent Occluder.shader
+- Assets/Oculus/VR/Resources/Texture2D Blit.shader
+- Assets/Resources/Materials/Textures/Side 3 w_o Sky Decor.png
+- Assets/Oculus/Avatar/Resources/Materials/Expressive/Avatar_PC_SingleComponentExpressive.shader
+- Assets/Resources/Materials/GrassSample.fbx
+- Assets/Resources/Materials/Poplar_Tree.prefab
+- Assets/Oculus/Avatar/Resources/Materials/AvatarPBRV2Simple.shader
+- Assets/Resources/Materials/Textures/Top of Skybox Test.png
+- Assets/Oculus/Avatar/Resources/FallbackTextures/fallback_normal_256.png
+- Assets/Resources/Materials/Textures/Top of Skybox w_o Sky Deco.png
+- Assets/Resources/Materials/PlaceHolder.mat
+- Assets/Resources/Materials/Leaves.mat
+- Assets/Oculus/Avatar/Resources/Materials/Expressive/Avatar_Mobile_SingleComponentExpressive.shader
+- Assets/Oculus/Voice/Lib/Wit.ai/Resources/witai.png
+- Assets/VRTK/Source/SDK/Oculus/Resources/ControllerColliders/OculusTouch_Left.prefab
+- Assets/Oculus/VR/Resources/OVRMRCameraFrame.shader
+- Assets/Resources/Materials/Shadows.mat
+- Assets/Oculus/Avatar/Resources/Materials/AvatarSurfaceShaderPBSV2.shader
+- Assets/VRTK/Source/SDK/SteamVR/Resources/ControllerColliders/SteamVROculusTouch_Left.prefab
+- Assets/Resources/OculusRuntimeSettings.asset
+- Assets/Resources/ONSPSettings.asset
+- Assets/VRTK/Internal/Materials/Resources/WorldPointer.mat
+- Assets/VRTK/Internal/Materials/Resources/OutlineBasic.mat
+- Assets/VRTK/Source/SDK/SteamVR/Resources/ControllerColliders/ValveKnuckles_Left.prefab
+- Assets/Oculus/Avatar/Resources/FallbackTextures/fallback_diffuse_roughness_1024.png
+- Assets/Resources/Materials/Ground.mat
+- Assets/Resources/Audio/C mixo.wav
+- Assets/VRTK/Internal/Materials/Resources/DirectionArrows.mat
+- Assets/Oculus/Avatar/Resources/Materials/Version1.5/Avatar_Mobile_SingleComponent.shader
+- Assets/Oculus/Avatar/Resources/Materials/Expressive/AvatarEyeLens.shader
+- Assets/Oculus/Avatar/Resources/Materials/AvatarSurfaceShader.shader
+- Assets/Oculus/Avatar/Resources/FallbackTextures/fallback_normal_1024.tif
+- Assets/VRTK/Source/SDK/SteamVR/Resources/ControllerColliders/ValveKnuckles_Right.prefab
+- Assets/VRTK/Source/SDK/SteamVR/Resources/ControllerColliders/SteamVROculusTouch_Right.prefab
+- Assets/Oculus/VR/Resources/Underlay Impostor.shader
+- Assets/VRTK/Source/SDK/Oculus/Resources/ControllerColliders/OculusTouch_Right.prefab
+- Assets/Resources/Materials/Textures/Bottom of Skybox.png
+- Assets/VRTK/Source/SDK/Simulator/Resources/ControllerColliders/Simulator.prefab
+- Assets/Resources/Audio/G maj Rhodes.wav
+- Assets/Resources/Materials/Grass 1.prefab
+Dependencies:
+- C:/Users/epicf/Documents/UNITY/Cappa/FPS VR/OVRAssetBundles/OVRMasterBundle/asset_jpg0
+- C:/Users/epicf/Documents/UNITY/Cappa/FPS VR/OVRAssetBundles/OVRMasterBundle/asset_png0

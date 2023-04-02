@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 1684145661
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7f510b43064e1b1b8a881bf00b58ef2a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 7859cd501ea75098bcf7e53f1b477c26
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Tree 1_Textures/translucency_gloss.png
+- Assets/Tree 1_Textures/normal_specular.png
+- Assets/Tree 1_Textures/diffuse.png
+- Assets/Tree 1_Textures/shadow.png
+- Assets/Oculus/SampleFramework/Usage/Locomotion/Textures/concrete_01_msm.png
+Dependencies: []
